@@ -1,4 +1,3 @@
-GET /api/version X-Version
 """
 Heartbeat loop — main orchestration per heartbeat.md.
 State machine: setup → join → play → settle → repeat.
